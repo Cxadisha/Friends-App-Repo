@@ -6,8 +6,6 @@ import com.atiurin.sampleapp.R
 import org.hamcrest.CoreMatchers
 import org.hamcrest.Matcher
 import org.hamcrest.Matchers
-import org.hamcrest.Matchers.containsString
-import org.hamcrest.Matchers.instanceOf
 
 object UIElementPage {
 
